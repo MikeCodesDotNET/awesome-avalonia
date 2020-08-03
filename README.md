@@ -92,6 +92,7 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 - [AvaloniaEdit](https://github.com/AvaloniaUI/AvaloniaEdit) - This is a port of AvalonEdit for Avalonia.
 - [AvaloniaAutoGrid](https://github.com/AvaloniaUI/AvaloniaAutoGrid) - A flexible, easy to configure replacement for the standard Grid control.
 - [AvaloniaProgressRing](https://github.com/Deadpikle/AvaloniaProgressRing) - A simple progress ring control based on [ModernWpf's progress ring](https://github.com/Kinnara/ModernWpf/wiki/ProgressRing)
+- [ColorPicker](https://github.com/MikeCodesDotNET/ColorPicker) - A HSV color picker for Avalonia UI. 
 - [Dock](https://github.com/wieslawsoltes/Dock) - A docking layout system.
 - [AvaloniaRibbon](https://github.com/amazerol/AvaloniaRibbon) - Ribbon for avalonia.
 - [MessageBox.Avalonia](https://github.com/CreateLab/MessageBox.Avalonia) - Message Box UI for Avalonia UI.
