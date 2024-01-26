@@ -176,6 +176,7 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 - [DialogHost.Avalonia](https://github.com/AvaloniaUtils/DialogHost.Avalonia) - Managed asynchronous overlay dialogs implementation.
 - [Dock](https://github.com/wieslawsoltes/Dock) - A docking layout system.
 - [Egorozh.ColorPicker](https://github.com/egorozh/Egorozh.ColorPicker) - A color picker with RGB and HSB support.
+- [Eremex Avalonia UI Controls](https://github.com/Eremex/controls-demo) - Advanced controls to meet the most demanding desktop application requirements. 
 - [ExtendedToolkit](https://github.com/mameolan/Avalonia.ExtendedToolkit) - Exteded Controls for Avalonia UI.
 - [FluentAvalonia](https://github.com/amwx/FluentAvalonia) - Fluent Design and WinUi Controls
 - [FFME.Avalonia](https://github.com/WangsYi/ffme.avalonia) - MediaElement based on FFMpeg.
